@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @homzilla
-- 👀 I’m interested in QA,Security testing, Android development
+- 👀 I’m interested in QA,Python, Automatisation testing, Security testing, 
 - 🌱 I’m currently learning OWASP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
